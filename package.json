@@ -1,0 +1,43 @@
+{
+  "name": "slack-assembla-plugin",
+  "description": "Integrate Assembla and Slack.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Ramzi-Alqrainy/slack-assembla-plugin",
+  "author": {
+    "name": "Ramzi Alqrainy",
+    "email": "ramzi.alqrainy@gmail.com",
+    "url": "http://ramzialqrainy.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Ramzi-Alqrainy/slack-assembla-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ramzi-Alqrainy/slack-assembla-plugin/issues"
+  },
+  "licenses": [
+    {
+      "type": "ASL",
+      "url": "https://github.com/Ramzi-Alqrainy/slack-assembla-plugin/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "hubot-assembla": "^0.1.0",
+    "jira": "0.9.2",
+    "node-slackbot": "0.0.6",
+    "request": "~2.33.0",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "bin": {
+    "bot": "bin/bot.js"
+  },
+  "keywords": [
+    "slack",
+    "assembla"
+  ]
+}
+
