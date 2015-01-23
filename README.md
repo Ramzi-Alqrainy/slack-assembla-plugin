@@ -2,6 +2,8 @@
 
 Assembla integration with [slack](http://slack.com).  
 
+This plugin is recommended by [Slack Community Team](https://api.slack.com/community)
+
 It does the following:
 
 1. Automatically append a link to a message whenever there is a mention of a Assembla issue in the message
