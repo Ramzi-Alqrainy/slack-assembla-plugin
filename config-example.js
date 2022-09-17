@@ -8,7 +8,7 @@ var config = {
       "DEFAULT": "https://www.assembla.com/spaces/[PROJECT]/tickets/"
     },
     projects: ["#"],
-    post: true, //If true, than post a new message instead of updating the current
+    post: true, //If true, than post a new message instead of updating the current.
     verbose: true,
     emoji: ":warning:",
     link_separator: ", "// use \n if you want new lines
