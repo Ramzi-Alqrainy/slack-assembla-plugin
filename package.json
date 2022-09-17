@@ -1,13 +1,13 @@
 {
   "name": "slack-assembla-plugin",
   "description": "Integrate Assembla and Slack.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/Ramzi-Alqrainy/slack-assembla-plugin",
   "author": {
     "name": "Ramzi Alqrainy",
     "email": "ramzi.alqrainy@gmail.com",
     "url": "http://ramzialqrainy.com"
-  },
+  }, 
   "repository": {
     "type": "git",
     "url": "git@github.com:Ramzi-Alqrainy/slack-assembla-plugin.git"
