@@ -1,6 +1,6 @@
 # Slack Assembla Plugin
 
-Assembla integration with [slack](http://slack.com).  
+Assembla Integration with [Slack](http://slack.com).  
 
 This plugin is recommended by [Slack Community Team](https://api.slack.com/community)
 
